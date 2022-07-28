@@ -1,0 +1,44 @@
+body {
+    /* 字体大小16像素 行高28像素 微软雅黑字体*/
+    font: 16px/28px 'Microsoft YaHei';
+}
+h1 {
+    /* 标题文字居中对齐 */
+    text-align: center;
+    /* 标题文字不加粗 */
+    font-weight: 400;
+}
+.time {
+    /* 时间居中对齐 */
+    text-align: center;
+    color: #888888;
+    font-size :12px;
+}
+.search {
+    color: #666666;
+    width: 170px;
+}
+a {
+    text-decoration: none;
+}
+p {
+    /* 首行缩进2字符 */
+    text-indent: 2em;
+}
+.btn {
+    /* 搜索按钮中的搜索文字加粗 */
+    font-weight: 700;
+}
+h4 {
+    font-weight: 700;
+}
+.pic {
+    /* 图片居中对齐，则给P标签添加水平居中的代码 */
+    text-align: center;
+    /* 去除P标签的首行缩进效果使图片居中 */
+    text-indent: 0em;
+}
+.end {
+    color: #888888;
+    font-size: 12px;
+}
